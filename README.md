@@ -1,2 +1,2 @@
-# Flutter
-Flutter Projects
+# Flutter Apps
+Flutter Projects by Vinicius Alcanfor
